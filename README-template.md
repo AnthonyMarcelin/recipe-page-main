@@ -1,6 +1,8 @@
 # Frontend Mentor - Recipe page solution
 
 [Exercice terminé !](index.html)
+[lien du résultat final](https://anthonymarcelin.github.io/recipe-page-main/)
+
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
