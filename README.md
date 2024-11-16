@@ -2,6 +2,7 @@
 
 
 [Exercice terminé !](index.html)
+[lien du résultat final](https://anthonymarcelin.github.io/recipe-page-main/)
 
 
 ![Design preview for the Recipe page coding challenge](./preview.jpg)
